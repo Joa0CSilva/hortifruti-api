@@ -1,0 +1,119 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Maçã",
+            "preco": 3.99,
+            "unidade": "kg",
+            "categoria": "Fruta",
+            "descricao": "Maçã vermelha, crocante e suculenta.",
+            "imagem": "https://res.cloudinary.com/yswdfnqz/image/upload/v1795131360/SnapdragonNEW.png"
+        },
+        {
+            "id": 2,
+            "nome": "Banana",
+            "preco": 2.99,
+            "unidade": "kg",
+            "categoria": "Fruta",
+            "descricao": "Banana nanica, doce e macia.",
+            "imagem": "https://res.cloudinary.com/yswdfnqz/image/upload/v1795131372/Banana-Definition.webp"
+        },
+        {
+            "id": 3,
+            "nome": "Alface",
+            "preco": 4.99,
+            "unidade": "maço",
+            "categoria": "Verdura",
+            "descricao": "Alface fresca, crocante e saborosa.",
+            "imagem": "https://res.cloudinary.com/yswdfnqz/image/upload/v1795131338/Escarole__Natacha-removebg.png"
+        },
+        {
+            "id": 4,
+            "nome": "Repolho",
+            "preco": 1.99,
+            "unidade": "unidade",
+            "categoria": "Verdura",
+            "descricao": "Repolho verde, ideal para saladas e refogados.",
+            "imagem": "https://res.cloudinary.com/yswdfnqz/image/upload/v1795131458/fresh-green-cabbage-isolated-on-a-clean-transparent-background-showcasing-its-vibrant-leaves-and-natural-texture-fresh-green-cabbage-isolated-on-transparent-background-free-png.png"
+        },
+        {
+            "id": 5,
+            "nome": "Inhame",
+            "preco": 2.49,
+            "unidade": "kg",
+            "categoria": "Tubérculo",
+            "descricao": "Inhame fresco, rico em nutrientes e saboroso.",
+            "imagem": "https://res.cloudinary.com/yswdfnqz/image/upload/v1795131487/a-single-whole-brown-roughskinned-yam-tuber-isolated-on-a-transparent-background-free-png.png"
+        },
+        {
+            "id": 6,
+            "nome": "Beterraba",
+            "preco": 3.49,
+            "unidade": "kg",
+            "categoria": "Tubérculo",
+            "descricao": "Beterraba vermelha, ideal para sucos e saladas.",
+            "imagem": "https://res.cloudinary.com/yswdfnqz/image/upload/v1795131529/138788-beetroot-sliced-salad-free-clipart-hd.png"
+        },
+        {
+            "id": 7,
+            "nome": "Batata",
+            "preco": 2.99,
+            "unidade": "kg",
+            "categoria": "Legume",
+            "descricao": "Batata fresca, versátil e deliciosa.",
+            "imagem": "https://res.cloudinary.com/yswdfnqz/image/upload/v1795131546/Aardappel-groenten-Veggipedia.png"
+        },
+        {
+            "id": 8,
+            "nome": "Abobrinha",
+            "preco": 5.99,
+            "unidade": "unidade",
+            "categoria": "Legume",
+            "descricao": "Abobrinha verde, ideal para refogados e grelhados.",
+            "imagem": "https://res.cloudinary.com/yswdfnqz/image/upload/v1795131584/eyJpZCI6IjZmOTgzYjVlY2RhNjZhYmI1NjY2YWMzMWJlYTFlY2Y2Iiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9.png"
+        }
+    ],
+
+    "estoque": [
+        {
+            "id": 1,
+            "produtoId": 1,
+            "quantidade": 50
+        },
+        {
+            "id": 2,
+            "produtoId": 2,
+            "quantidade": 100
+        },
+        {
+            "id": 3,
+            "produtoId": 3,
+            "quantidade": 30
+        },
+        {
+            "id": 4,
+            "produtoId": 4,
+            "quantidade": 20
+        },
+        {
+            "id": 5,
+            "produtoId": 5,
+            "quantidade": 40
+        },
+        {
+            "id": 6,
+            "produtoId": 6,
+            "quantidade": 25
+        },
+        {
+            "id": 7,
+            "produtoId": 7,
+            "quantidade": 60
+        },
+        {
+            "id": 8,
+            "produtoId": 8,
+            "quantidade": 15
+        }
+    ]
+}
