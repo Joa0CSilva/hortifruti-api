@@ -2,7 +2,7 @@
     "produtos": [
         {
             "id": 1,
-            "nome": "Maçã Teste API",
+            "nome": "Maçã",
             "preco": 3.99,
             "unidade": "kg",
             "categoria": "Fruta",
